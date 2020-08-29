@@ -3,7 +3,11 @@
   "features": [
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "stroke": "#1916d0",
+        "stroke-width": 3,
+        "stroke-opacity": 1
+      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -732,7 +736,11 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "stroke": "#2b14d7",
+        "stroke-width": 3,
+        "stroke-opacity": 1
+      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -1002,8 +1010,8 @@
     {
       "type": "Feature",
       "properties": {
-        "stroke": "#555555",
-        "stroke-width": 2,
+        "stroke": "#2910e5",
+        "stroke-width": 3,
         "stroke-opacity": 1
       },
       "geometry": {
