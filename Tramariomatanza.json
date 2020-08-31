@@ -2098,7 +2098,11 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "stroke": "#1411ee",
+        "stroke-width": 3,
+        "stroke-opacity": 1
+      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
